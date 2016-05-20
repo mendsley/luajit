@@ -1,0 +1,18 @@
+type file
+id luajit
+version 2.0.4
+authors
+	http://luajit.org
+owner
+	Matthew Endsley
+description
+	Just-in-time compiler for lua
+files
+	doc/ ==> doc/
+	dynasm/ ==> dynasm/
+	etc/ ==> etc/
+	lib/ ==> lib/
+	msvc_xp/ ==> msvc_xp/
+	src/ ==> src/
+	* ==>
+	!*nupkg*
